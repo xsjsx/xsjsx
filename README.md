@@ -1,11 +1,24 @@
+
+</br>
 <table>
     <tr>
         <td style="width: 70%;">
-            <img src="https://i.pinimg.com/1200x/fa/a8/11/faa81139f0852b6aff66080df604e01b.jpg" style="width:100%; border: none;"/>
+            <img src="https://i.pinimg.com/564x/29/e8/a6/29e8a66aea5ce9fbb6ab2b62abb87b85.jpg" style="width:100%; border: none;"/>
         </td>
-        <td style="width: 30%; vertical-align: middle;">                                                                           
-<a href=#><img src="contributions.svg"></a>
+        <td style="width: 30%; vertical-align: middle;">     
+  <div>
+    <p align="center">Hi, my name is Matheus Felipe but known as loys'nk, I'm 18 years old, I'm a web development student</p>
+</div>
+</br>
 <div>
-    <img src="https://i.pinimg.com/enabled_lo/1200x/97/20/98/9720983677b49ef0495fc780781b3700.jpg" height="100%">
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github,git" />
+  </a>
+</p>
+</div>
+
+<div>
+   <a href=#><img src="contributions.svg"></a>
 </div>
         </td> 
