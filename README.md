@@ -7,7 +7,13 @@
         </td>
         <td style="width: 30%; vertical-align: middle;">     
   <div>
-    <p align="center">Hi, my name is Matheus Felipe but known as loys'nk, I'm 18 years old, I'm a web development student</p>
+    <p align="center">Hi, My name is Matheus Felipe but known as loys'nk, I'm 18 years old, I'm a web development student</p>
+</div>
+        </br>
+<div align="center">
+     <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+    <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" target="_blank"></a>
+      <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 </br>
 <div>
@@ -17,7 +23,6 @@
   </a>
 </p>
 </div>
-
 <div>
    <a href=#><img src="contributions.svg"></a>
 </div>
