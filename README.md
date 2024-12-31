@@ -10,9 +10,9 @@
     </div>
         </br>
 <div align="center">
-     <a href="https://discord.com/users/1173244265900556333" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+     <a href="https://discord.com/users/1306595442196217921" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
     <a href="https://x.com/loysnk" target="_blank"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" target="_blank"></a>
-      <a href="https://instagram.com/loysnk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+      <a href="https://instagram.com/1oysnk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 </br>
 <div>
