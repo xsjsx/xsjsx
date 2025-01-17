@@ -2,7 +2,7 @@
     <table>
     <tr>
         <td style="width: 70%;">
-            <img src="https://i.pinimg.com/564x/29/e8/a6/29e8a66aea5ce9fbb6ab2b62abb87b85.jpg" style="width:100%; border: none;"/>
+            <img src="https://i.pinimg.com/736x/ba/df/48/badf48934a888ec34c850cc3436fc50d.jpg" style="width:100%; border: none;"/>
         </td>
             <td style="width: 30%; vertical-align: middle;">     
       <div>
@@ -11,7 +11,7 @@
         </br>
 <div align="center">
      <a href="https://discord.com/users/1306595442196217921" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-      <a href="https://instagram.com/1oysnk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+      <a href="https://instagram.com/loysnk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 </br>
 <div>
