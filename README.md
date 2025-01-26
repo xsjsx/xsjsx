@@ -2,7 +2,7 @@
     <table>
     <tr>
         <td style="width: 70%;">
-            <img src="https://i.pinimg.com/736x/1a/54/4d/1a544dcdaad09203fff5a595b8a43800.jpg" style="width:100%; border: none;"/>
+            <img src="https://i.pinimg.com/736x/03/b2/82/03b2821f0dde3c1cf42d4c8a7321e33d.jpg" style="width:100%; border: none;"/>
         </td>
             <td style="width: 30%; vertical-align: middle;">     
       <div>
